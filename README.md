@@ -1,6 +1,3 @@
-
- ![SAMBABHOURIA](https://avatars.githubusercontent.com/u/53333839?v=4)
- 
 - 👋 Hi, I’m <strong>samba a passionate Frontend and Backend Freelance  developer </strong>
 - 👀  I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.
 - 🌱 I’m currently learning React, Redux, Azure Devops 
