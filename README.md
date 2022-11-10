@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <strong>samba a passionate Frontend and Backend Freelance  developer </strong>
-- 👀  I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.
+- 👀  I'm a Full Stack Web React and React Native Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.
 - 🌱 I’m currently learning React, Redux, Azure Devops 
 - 💞️ I’m currently working on Full Stack Web Development.
 - 💬 Ask me about Html, CSS, Javascript, React, React-Redux, Redux-Saga, Redux-Toolkit, Node, Express, Mongo and more
