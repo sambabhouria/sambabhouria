@@ -1,7 +1,8 @@
-- 👋 Hi, I’m <strong>samba a passionate Frontend and Backend Freelance  developer </strong>
+
+- 👋 Hi, I’m <strong>samba a passionate Frontend and Backend developer </strong>
 - 👀  I'm a Full Stack Web React and React Native Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.
 - 🌱 I’m currently learning React, Redux, Azure Devops 
-- 💞️ I’m currently working on Full Stack Web Development.
+- 💞️ I’m working on Full Stack React,React Native Node Development.
 - 💬 Ask me about Html, CSS, Javascript, React, React-Redux, Redux-Saga, Redux-Toolkit, Node, Express, Mongo and more
 - 📫 How to reach me sambabhouria@gmail.com or call me on +33 6 78 32 90 35
 
