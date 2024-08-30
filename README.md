@@ -14,6 +14,7 @@
 ![AOPLO](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 ![C#](https://img.shields.io/badge/CODE-%3C.NET%203.5%3E%20%3CC%23%205.0%3E-darkblue?style=for-the-badge&labelColor=66ccff)
 ![C#](https://img.shields.io/badge/CODE-%3C.NET%204.8%3E%20%3CUnity%202019.2.2f1%3E%20%3CC%23%3E-blue?&style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/CODE-%3C.NET%206%3E%20%3CC%23%208.0%3E-darkblue?style=for-the-badge&labelColor=66ccff)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,7 +24,19 @@
 
 
 
-## 🛠️  Main Tech Stacks : Technologies & Tools
+## 🛠️ Frameworks & Library
+
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NEXTJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NESTJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![EMBERJS](https://img.shields.io/badge/ember%20js-E04E39?style=for-the-badge&logo=emberdotjs&logoColor=white)
+![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+
+
+## 🛠️  Main Tech Stacks : Technologies
 ![SCSS](https://camo.githubusercontent.com/79c437a64b4e66b2699e373d576f14432bb51e8f794eb40fdbf8922074250c6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d534353532d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d7761726e696e67266c6f676f3d73617373)
 ![REACT](https://camo.githubusercontent.com/00eb47e38b6362bb9831bcf1d421577c718414e1d48caa67534b6b7f212ff878/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d52656163742d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c266c6f676f3d7265616374)
 ![WEBPACK](https://camo.githubusercontent.com/a4ac5ea229cfd2a49934e4d643b8d944b61d97281952ca3c8f30df29b7f91467/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d5765627061636b2d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d7761726e696e67266c6f676f3d7765627061636b)
