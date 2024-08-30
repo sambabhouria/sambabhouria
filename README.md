@@ -56,6 +56,9 @@
 ![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WEBPACK](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![CYPRESS](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+
 
 ## 🛠️  Linters
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
@@ -71,9 +74,6 @@
 
 ## 🛠️  Main Tech Stacks : Technologies
  
- 
-
-![CYPRESS](https://camo.githubusercontent.com/d06efe4235352aad1d8ffd58cdf7bcc03e0109724a5138d9022eff209b057157/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f437970726573732d3636353935433f7374796c653d666f722d7468652d6261646765266c6f676f3d63797072657373266c6f676f436f6c6f723d7768697465)
  
 ![STYLED COMPONENTS](https://camo.githubusercontent.com/0a9129617dc00aac4a5c688e87f4a595a0076877dd38c12f279ad16c8eda2604/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465)
 ![MATERIAL UI](https://camo.githubusercontent.com/778593c62adf9e931032c67dd644cceeb12351fa968e4d46099fd06e08f70721/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c2d2d55492d3030383143423f7374796c653d666f722d7468652d6261646765266c6f676f3d4d5549266c6f676f436f6c6f723d7768697465)
