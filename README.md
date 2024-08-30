@@ -59,10 +59,14 @@
 
 
 
+## 🛠️  Linters
+![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![STYLEINT](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
+![SONARLINT]( 	https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=whit)
+
 ## 🛠️  Main Tech Stacks : Technologies
  
-
-
 ![REACT NATIVE](https://camo.githubusercontent.com/6dd279263ca1130d66b07776bf81723214fa49340ceff2241710515fe7770ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f4e61746976652d3330413246463f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d666666)
 
 
