@@ -90,7 +90,24 @@
 ![CLOUDINARY](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
  
 
-## Software & Tools
+## Tools
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VISUAL STUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![XCODE](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![ANDROID STUDIO](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![WEBSTORM](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+![SUBLIMTEXT](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![ATOM](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+![NOTEPAD++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![NUGET](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=whiteck)
+![NGROK](https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white)
+![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+
+
 ![GIT](https://camo.githubusercontent.com/3773b47791105fa5363a55f52fbf22da4cd5cb43d706a623e0fed6aae0eabf4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4445344333363f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d253233666666666666)
 ![GITHUB](https://camo.githubusercontent.com/15c53ec3f229ff4136d20243545d82f39faceb946b0f92015658258d048f5712/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3136313631343f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562)
 ![GITLAB](https://camo.githubusercontent.com/5bc6088aabdea241d9af39c2793a4c9a951eebcfe5a877fd358c9a695afd4783/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4532343332393f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d666666)
