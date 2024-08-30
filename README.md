@@ -38,6 +38,7 @@
 ![REDUXSAGA](https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999)
 ![REACTROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![SOLIDJS](https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
+![VITE](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![REACTIVEX](https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
 ![NEXTJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NESTJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -60,6 +61,7 @@
 ![BABEL](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 ![MATERIEL DESIGN](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)
 ![ANT DESIGN](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
+![MATERIAL UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 
 
@@ -75,18 +77,7 @@
 ![ADOBE XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![ADOBE PHOTO SHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-## 🛠️  Main Tech Stacks : Technologies
- 
- 
-![STYLED COMPONENTS](https://camo.githubusercontent.com/0a9129617dc00aac4a5c688e87f4a595a0076877dd38c12f279ad16c8eda2604/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465)
-![MATERIAL UI](https://camo.githubusercontent.com/778593c62adf9e931032c67dd644cceeb12351fa968e4d46099fd06e08f70721/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c2d2d55492d3030383143423f7374796c653d666f722d7468652d6261646765266c6f676f3d4d5549266c6f676f436f6c6f723d7768697465)
-
-![VITE](https://camo.githubusercontent.com/3a15a92b116b1afb31a0ccaab1eedc0b09251b6f0f5b149ba91d488ae6a47ad3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d2532333634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697465266c6f676f436f6c6f723d7768697465)
- 
-![REDUX TOOLKIT](https://camo.githubusercontent.com/7060c233f1789a7efea081a1e8192536806e3271d0f01223c85d5caf9fa6a976/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526564757820546f6f6c6b69742d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)
-
 ## Backend Development
-
 ![NODE](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
