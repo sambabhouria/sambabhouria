@@ -14,10 +14,15 @@
 ![ECMASCRIPT](https://camo.githubusercontent.com/beaacae080252810daea2dc6d3070936c39a8f00a695ca50974a5f762383ad9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d45636d615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c)
 ![GRAPHQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white)
 ![AOPLO](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white&style=flat-square)
-![C#](https://img.shields.io/badge/CODE-%3C.NET%203.5%3E%20%3CC%23%205.0%3E-darkblue?style=plastic&labelColor=66ccff)
-![C#](https://img.shields.io/badge/CODE-%3C.NET%204.8%3E%20%3CUnity%202019.2.2f1%3E%20%3CC%23%3E-blue?style=plastic)
-![.NET](https://img.shields.io/badge/CODE-%3C.NET%206%3E%20%3CC%23%208.0%3E-darkblue?style=plastic&labelColor=66ccff)
-![KOTLIN](https://camo.githubusercontent.com/ce54b742cd3861e20b7c3e342f923f5f36edd27cce8092e68a802de035ce79d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333746353246462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465)
+![C#](https://img.shields.io/badge/CODE-%3C.NET%203.5%3E%20%3CC%23%205.0%3E-darkblue?style=flat-square&labelColor=66ccff)
+![C#](https://img.shields.io/badge/CODE-%3C.NET%204.8%3E%20%3CUnity%202019.2.2f1%3E%20%3CC%23%3E-blue?style=flat-square)
+![.NET](https://img.shields.io/badge/CODE-%3C.NET%206%3E%20%3CC%23%208.0%3E-darkblue?style=flat-square&labelColor=66ccff)
+![KOTLIN](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white&style=flat-square)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat-square)
+![GOLANG](https://img.shields.io/badge/golang-00ADD8?&style=flat-square&logo=go&logoColor=white)
+
+
+
 
 
 ## 🛠️  Main Tech Stacks : Technologies & Tools
