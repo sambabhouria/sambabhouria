@@ -53,14 +53,14 @@
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WEBPACK](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
 
 ## 🛠️  Main Tech Stacks : Technologies
-![SCSS](https://camo.githubusercontent.com/79c437a64b4e66b2699e373d576f14432bb51e8f794eb40fdbf8922074250c6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d534353532d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d7761726e696e67266c6f676f3d73617373)
+ 
 
-![DOCKER](https://camo.githubusercontent.com/7263f7eab869438bde576a68a5551a56fa966667d0a3d6673e42aed908732083/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d446f636b65722d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d7761726e696e67266c6f676f3d646f636b6572)
 
 ![REACT NATIVE](https://camo.githubusercontent.com/6dd279263ca1130d66b07776bf81723214fa49340ceff2241710515fe7770ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f4e61746976652d3330413246463f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d666666)
 
