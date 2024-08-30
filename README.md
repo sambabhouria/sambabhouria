@@ -75,10 +75,14 @@
 ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
  
 
-## Deployed On
-![VERCEL](https://camo.githubusercontent.com/b9ff564d8c311812747f1aacea54cf703d850756f9179f9eff6899da20a701a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465)
-![HEROKU](https://camo.githubusercontent.com/8039f6f47484d9dbb3a065add309fe12f12de738e20fb5f968a6a6b09b27d371/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752d2532333433303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465)
-![NETLIFY](https://camo.githubusercontent.com/2aa883d52783b24f65681fa3a20b76e914ca9cdbda511170ddae263b8c692c2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d23303043374237)
+## Cloud & Deployement
+![MICROSOFT AZURE](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![RENDER](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![UPCLOUD](https://img.shields.io/badge/upcloud-7B00FF?style=for-the-badge&logo=upcloud&logoColor=white)
+![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+ 
 
 ## Software & Tools
 ![GIT](https://camo.githubusercontent.com/3773b47791105fa5363a55f52fbf22da4cd5cb43d706a623e0fed6aae0eabf4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4445344333363f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d253233666666666666)
