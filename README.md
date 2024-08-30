@@ -32,6 +32,7 @@
 ## 🛠️ Frameworks & Library
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REACTQUERY](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColo)
 ![REACTREDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![REDUXSAGA](https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999)
@@ -56,16 +57,11 @@
 ![WEBPACK](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
-
 ## 🛠️  Linters
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![STYLEINT](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
 ![SONARLINT](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=whit)
-
-
 
 ## 🛠️ Design
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -73,10 +69,9 @@
 ![ADOBE XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![ADOBE PHOTO SHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-
 ## 🛠️  Main Tech Stacks : Technologies
  
-![REACT NATIVE](https://camo.githubusercontent.com/6dd279263ca1130d66b07776bf81723214fa49340ceff2241710515fe7770ae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f4e61746976652d3330413246463f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d666666)
+ 
 
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fc33d88e5f88267ab8ab4c9f34e8d277cbf8c6825e89ce2b3678fdd8c636f84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72786a732d2532334237313738432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d726561637469766578266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/9fc33d88e5f88267ab8ab4c9f34e8d277cbf8c6825e89ce2b3678fdd8c636f84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72786a732d2532334237313738432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d726561637469766578266c6f676f436f6c6f723d7768697465" alt="RxJS" data-canonical-src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&amp;logo=reactivex&amp;logoColor=white" style="max-width: 100%;"></a>
