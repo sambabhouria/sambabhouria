@@ -9,17 +9,15 @@
 🛠️ My Skills
 ---
 ## Programming languages
-![JAVASCRIPT](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![TYPESCRIPT](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![ECMASCRIPT](https://camo.githubusercontent.com/beaacae080252810daea2dc6d3070936c39a8f00a695ca50974a5f762383ad9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d45636d615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c)
-![GRAPHQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white)
-![AOPLO](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white&style=flat-square)
-![C#](https://img.shields.io/badge/CODE-%3C.NET%203.5%3E%20%3CC%23%205.0%3E-darkblue?style=flat-square&labelColor=66ccff)
-![C#](https://img.shields.io/badge/CODE-%3C.NET%204.8%3E%20%3CUnity%202019.2.2f1%3E%20%3CC%23%3E-blue?style=flat-square)
-![.NET](https://img.shields.io/badge/CODE-%3C.NET%206%3E%20%3CC%23%208.0%3E-darkblue?style=flat-square&labelColor=66ccff)
-![KOTLIN](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white&style=flat-square)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat-square)
-![GOLANG](https://img.shields.io/badge/golang-00ADD8?&style=flat-square&logo=go&logoColor=white)
+![JAVASCRIPT](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
+![TYPESCRIPT](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+![AOPLO](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
+![C#](https://img.shields.io/badge/CODE-%3C.NET%203.5%3E%20%3CC%23%205.0%3E-darkblue?style=for-the-badge&labelColor=66ccff)
+![C#](https://img.shields.io/badge/CODE-%3C.NET%204.8%3E%20%3CUnity%202019.2.2f1%3E%20%3CC%23%3E-blue?&style=for-the-badge)
+![.NET](https://img.shields.io/badge/CODE-%3C.NET%206%3E%20%3CC%23%208.0%3E-darkblue?style=for-the-badge&labelColor=66ccff)
+![KOTLIN](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GOLANG](https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=white)
 
 
 
@@ -72,12 +70,10 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-![ATLAS](https://camo.githubusercontent.com/99ac625dd4b684152aae95a7c8f3e1344f86ce60986508d2d3d21e3cbe1a985f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41746c61732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
-
-
-![POSTGRESQL](https://camo.githubusercontent.com/6854ba9612c2cb025e7c65445787d93f6436d4691303601506e0bc28be2ae9b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/34832d20f2587ef5fae771070dc9a55bac4999625ca9fdd4a0ceb44ab17d3ed1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/34832d20f2587ef5fae771070dc9a55bac4999625ca9fdd4a0ceb44ab17d3ed1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" alt="SQLite" data-canonical-src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" style="max-width: 100%;"></a>
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SUPERBASE](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+ 
 
 ## Deployed On
 ![VERCEL](https://camo.githubusercontent.com/b9ff564d8c311812747f1aacea54cf703d850756f9179f9eff6899da20a701a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465)
