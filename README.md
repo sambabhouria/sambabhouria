@@ -7,7 +7,7 @@
 - 📫 How to reach me sambabhouria@gmail.com or call me on +33 6 78 32 90 35
 
 🛠️ My Skills
----
+----
 ## Programming languages
 ![JAVASCRIPT](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
 ![TYPESCRIPT](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
